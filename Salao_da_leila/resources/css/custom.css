@@ -1,0 +1,25 @@
+body {
+    background-color: #07ebb2; /* Cor de fundo verde claro */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.login-box {
+    background-color: rgba(151, 76, 76, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(129, 17, 17, 0.589);
+}
+
+.login-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.login-header h2 {
+    margin: 0;
+    color: #a8318e; /* Cor do título */
+}
